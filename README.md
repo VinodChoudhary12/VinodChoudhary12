@@ -9,8 +9,8 @@ Namaste ...🙏! My name is Vinod and I'm a Software Developer from Indore</h2>
 
 ###
 
-<img align="right" height="100px" width="100px" src=""  />
-![WhatsApp Image 2024-02-19 at 3 46 12 AM](https://github.com/VinodChoudhary12/VinodChoudhary12/assets/140074392/1f4947fd-dc02-4207-a715-841e492f991c)
+<img align="right" height="100px" width="100px" src="
+![WhatsApp Image 2024-02-19 at 3 46 12 AM](https://github.com/VinodChoudhary12/VinodChoudhary12/assets/140074392/1f4947fd-dc02-4207-a715-841e492f991c) "  />
 
 
 
