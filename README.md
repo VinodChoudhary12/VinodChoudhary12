@@ -6,8 +6,8 @@
 </p>
 
 
-![](https://github-readme-stats.vercel.app/api?username=VinodChoudhary12&theme=gotham&hide_border=false) <br>
-<div style="text-align: center;">
+
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=VinodChoudhary12&theme=gotham&hide_border=false" alt="GitHub Stats">
 </div>
 
