@@ -5,17 +5,9 @@ Namaste ...🙏! My name is Vinod and I'm a Software Developer from Indore</h2>
     <img src="https://readme-typing-svg.demolab.com/?lines=MERN-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<p  align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=VinodChoudhary12&theme=gotham&hide_border=false) <br>
-</p>
 
-###
-
-
-
-
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
