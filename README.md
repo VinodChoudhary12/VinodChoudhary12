@@ -6,7 +6,7 @@ Namaste ...🙏! My name is Vinod and I'm a Software Developer from Indore</h2>
 </p>
 ###
 
-![](https://github-readme-stats.vercel.app/api?username=VinodChoudhart12&theme=gotham&hide_border=false) <br>
+![](https://github-readme-stats.vercel.app/api?username=VinodChoudhary12&theme=gotham&hide_border=false) <br>
 
 
 ###
