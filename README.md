@@ -1,4 +1,4 @@
-<h>Namaste ...🙏! My name is Vinod and I'm a Software Developer from Indore</h>
+<h1>Namaste ...🙏! My name is Vinod and I'm a Software Developer from Indore</h1>
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/VinodChoudhart12/readme-typing-svg">
