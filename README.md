@@ -1,11 +1,3 @@
-<!-- <h2 align="center">Namaste ...🙏! My name is Vinod and I'm a Software Developer from Indore</h2> -->
-<!-- <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/VinodChoudhart12/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=MERN-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-</p> -->
-
-
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=VinodChoudhary12&theme=gotham&hide_border=false" alt="GitHub Stats">
